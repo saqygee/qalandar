@@ -1,0 +1,22 @@
+{
+	"compilerOptions": {
+		//
+		"target": "ES2022",
+		"lib": [
+			"ES2022","DOM"
+		],
+		"types": ["node","mocha"],
+		"sourceMap": true,
+		"rootDir": "src",
+		"strict": true,   
+		"module": "node16",
+		"moduleResolution": "node16",
+		"esModuleInterop": true,
+		"skipLibCheck": true
+			/* enable all strict type-checking options */
+		/* Additional Checks */
+		// "noImplicitReturns": true, /* Report error when not all code paths in function return a value. */
+		// "noFallthroughCasesInSwitch": true, /* Report errors for fallthrough cases in switch statement. */
+		// "noUnusedParameters": true,  /* Report errors on unused parameters. */
+	}
+}
