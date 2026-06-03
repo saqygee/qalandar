@@ -1,8 +1,8 @@
 {
-  "name": "qalandar",
-  "displayName": "Qalandar",
+  "name": "qalandarai",
+  "displayName": "Qalandar AI – Ollama Code Assistant",
   "description": "An AI-powered coding assistant that helps you generate, analyze, and complete code using your local Ollama models.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "images/logo.png",
   "repository": {
     "url": "https://github.com/saqygee/qalandar.git"
@@ -11,6 +11,16 @@
     "name": "Saky",
     "email": "saqygee@gmail.com"
   },
+  "keywords": [
+    "ai",
+    "ollama",
+    "code",
+    "assistant",
+    "vscode",
+    "llm",
+    "coding",
+    "generator"
+  ],
   "publisher": "Saky",
   "engines": {
     "vscode": "^1.101.0"
